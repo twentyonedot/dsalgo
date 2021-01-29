@@ -13,5 +13,10 @@
 ## Recursion Theory
 
 Types of Recursion:
--> Head Recursion
--> Tail Recursion (Tail call optimization)
+
+    - -> Head Recursion
+    - -> Tail Recursion (Tail call optimization)
+
+## Resources Section
+
+- http://homepage.divms.uiowa.edu/~hzhang/c31/notes/recursion.pdf
