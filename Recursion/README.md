@@ -1,4 +1,5 @@
-## Practice these problem in this order to master the recursion.
+## Recursion Practice Problems.
+
 1. Given n, Print the numbers 1 to n recursively.(Increasing)
 2. Given n, Print the numbers n to 1 recursively.(Decreasing)
 3. Given n, Print the numbers n to 1, 1 to n recursively.(Decreasing->Increasing)
@@ -8,8 +9,9 @@
 7. Find the factorial of n.
 8. Find the nth Fibonacci Number.
 9. Ruler Problem.
+
 ## Recursion Theory
 
 Types of Recursion:
-    -> Head Recursion
-    -> Tail Recursion (Tail call optimization)
+-> Head Recursion
+-> Tail Recursion (Tail call optimization)
